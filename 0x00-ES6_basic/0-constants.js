@@ -1,5 +1,5 @@
 export function taskFirst() {
-  const task = 'I prefer const when I can.'; //0x00-ES6_basic
+  const task = 'I prefer const when I can.';
   return task;
 }
 
